@@ -287,16 +287,16 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ##目录结构
 
-|--html
+html
 
-    |----articleDetail.html           文章详情页
+    articleDetail.html           文章详情页
 
-    |----baseInfo.html                减肥前评测-基本信息页
+    baseInfo.html                减肥前评测-基本信息页
 
-    |----evaluationResult.html        减肥前评测-评测结果页
+    evaluationResult.html        减肥前评测-评测结果页
 
-    |----planIntro.html               减肥前评测-方案介绍页
+    planIntro.html               减肥前评测-方案介绍页
 
-    |----resetWeightGoal.html         减肥前评测-重新设置减肥目标页
+    resetWeightGoal.html         减肥前评测-重新设置减肥目标页
 
-    |----weightGIal.html              减肥前评测-设置减肥目标页
+    weightGIal.html              减肥前评测-设置减肥目标页
