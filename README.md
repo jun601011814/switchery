@@ -283,3 +283,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#轻爱微信服务号v1.1
+
+##目录结构
+
+|--html
+    |--articleDetail.html           文章详情页
+    |--baseInfo.html                减肥前评测-基本信息页
+    |--evaluationResult.html        减肥前评测-评测结果页
+    |--planIntro.html               减肥前评测-方案介绍页
+    |--resetWeightGoal.html         减肥前评测-重新设置减肥目标页
+    |--weightGIal.html              减肥前评测-设置减肥目标页
